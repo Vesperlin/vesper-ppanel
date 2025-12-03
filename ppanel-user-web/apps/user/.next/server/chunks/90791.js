@@ -1,1 +1,0 @@
-"use strict";exports.id=90791,exports.ids=[90791],exports.modules={90791:a=>{a.exports=JSON.parse('{"all":"ทั้งหมด","document":"เอกสาร","read":"อ่าน","tutorial":"บทแนะนำ"}')}};

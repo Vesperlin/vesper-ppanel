@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[1114],{91114:e=>{e.exports=JSON.parse('{"accountBalance":"Account Balance","commission":"Commission","copyInviteLink":"Copy Invite Link","copySuccess":"Invite Link Copied Successfully","giftAmount":"Girt Amount","inviteCode":"Invite Code","recharge":"Recharge"}')}}]);

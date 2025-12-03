@@ -1,1 +1,0 @@
-"use strict";exports.id=97513,exports.ids=[97513],exports.modules={19894:a=>{a.exports=JSON.parse('{"all":"kaikki","document":"Asiakirja","read":"lukea","tutorial":"Opetusohjelma"}')}};

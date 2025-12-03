@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[3247],{5628:n=>{n.exports=JSON.parse('{"accountBalance":"Số dư t\xe0i khoản","commission":"Hoa hồng","copyInviteLink":"Sao ch\xe9p li\xean kết mời","copySuccess":"Sao ch\xe9p li\xean kết mời th\xe0nh c\xf4ng","giftAmount":"Số tiền qu\xe0 tặng","inviteCode":"M\xe3 mời","recharge":"Nạp tiền"}')}}]);

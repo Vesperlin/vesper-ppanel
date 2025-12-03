@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[625],{60625:a=>{a.exports=JSON.parse('{"accountBalance":"Hesap Bakiyesi","commission":"Komisyon","copyInviteLink":"Davet Bağlantısını Kopyala","copySuccess":"Davet bağlantısı başarıyla kopyalandı","giftAmount":"Hediye Miktarı","inviteCode":"davetKodu","recharge":"şarj et"}')}}]);

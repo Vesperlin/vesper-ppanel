@@ -1,1 +1,0 @@
-"use strict";exports.id=16019,exports.ids=[16019],exports.modules={16019:a=>{a.exports=JSON.parse('{"all":"T\xfcm\xfc","document":"belge","read":"okuma","tutorial":"eğitim"}')}};

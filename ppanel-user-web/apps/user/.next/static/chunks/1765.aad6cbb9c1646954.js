@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[1765],{51765:e=>{e.exports=JSON.parse('{"accountBalance":"موجودی حساب","commission":"کمیسیون","copyInviteLink":"کپی کردن لینک دعوت","copySuccess":"لینک دعوت با موفقیت کپی شد","giftAmount":"مقدار هدیه","inviteCode":"کد دعوت","recharge":"شارژ مجدد"}')}}]);
